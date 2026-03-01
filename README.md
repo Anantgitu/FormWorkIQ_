@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/0e59edfe-1a5d-4ea8-a48f-08fb4aa1b3ae
 # 🏗️ FormworkIQ
 
 > **AI-powered Formwork Kitting & BoQ Optimization Platform**  
@@ -95,11 +97,22 @@ Open [http://localhost:5173](http://localhost:5173) 🎉
 | Panels eliminated via reuse | 71 panels |
 | Inventory reduction | 62% |
 | Cost savings (single batch) | ₹1.7 Lakhs |
-| Reuse connections identified | 12 |
+| Reuse connections ident
+
+
+
+ified | 12 |
 
 ---
 
 ## 👥 Team
 
 Built with ❤️ for **L&T CreaTech 2026**
+
+This is video of the prototype
+
+https://github.com/user-attachments/assets/91c86ca6-da1e-49fe-8fdd-72f6991b48b9
+
+This is ppt
+[ppt_creaTech.pdf](https://github.com/user-attachments/files/25664679/ppt_creaTech.pdf)
 
