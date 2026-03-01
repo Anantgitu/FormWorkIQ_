@@ -102,4 +102,4 @@ Open [http://localhost:5173](http://localhost:5173) 🎉
 ## 👥 Team
 
 Built with ❤️ for **L&T CreaTech 2026**
-https://www.youtube.com/watch?v=HsrNq_14GhY&list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&index=56
+
